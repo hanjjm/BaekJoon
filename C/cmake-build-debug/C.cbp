@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/hanju/Desktop/Source Code/BaekJoon/C/p1000.c">
+		<Unit filename="/Users/hanju/Desktop/Source Code/BaekJoon/C/p1001.c">
 			<Option target="C"/>
 		</Unit>
 		<Unit filename="/Users/hanju/Desktop/Source Code/BaekJoon/C/CMakeLists.txt">

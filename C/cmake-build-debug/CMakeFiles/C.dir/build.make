@@ -57,27 +57,27 @@ include CMakeFiles/C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C.dir/flags.make
 
-CMakeFiles/C.dir/p1000.c.o: CMakeFiles/C.dir/flags.make
-CMakeFiles/C.dir/p1000.c.o: ../p1000.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/hanju/Desktop/Source Code/BaekJoon/C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/p1000.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/p1000.c.o   -c "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1000.c"
+CMakeFiles/C.dir/p1001.c.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/p1001.c.o: ../p1001.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/hanju/Desktop/Source Code/BaekJoon/C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/p1001.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/p1001.c.o   -c "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1001.c"
 
-CMakeFiles/C.dir/p1000.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/p1000.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1000.c" > CMakeFiles/C.dir/p1000.c.i
+CMakeFiles/C.dir/p1001.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/p1001.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1001.c" > CMakeFiles/C.dir/p1001.c.i
 
-CMakeFiles/C.dir/p1000.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/p1000.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1000.c" -o CMakeFiles/C.dir/p1000.c.s
+CMakeFiles/C.dir/p1001.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/p1001.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1001.c" -o CMakeFiles/C.dir/p1001.c.s
 
 # Object files for target C
 C_OBJECTS = \
-"CMakeFiles/C.dir/p1000.c.o"
+"CMakeFiles/C.dir/p1001.c.o"
 
 # External object files for target C
 C_EXTERNAL_OBJECTS =
 
-C : CMakeFiles/C.dir/p1000.c.o
+C : CMakeFiles/C.dir/p1001.c.o
 C : CMakeFiles/C.dir/build.make
 C : CMakeFiles/C.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/hanju/Desktop/Source Code/BaekJoon/C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable C"

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1000.c" "/Users/hanju/Desktop/Source Code/BaekJoon/C/cmake-build-debug/CMakeFiles/C.dir/p1000.c.o"
+  "/Users/hanju/Desktop/Source Code/BaekJoon/C/p1001.c" "/Users/hanju/Desktop/Source Code/BaekJoon/C/cmake-build-debug/CMakeFiles/C.dir/p1001.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

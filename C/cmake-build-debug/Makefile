@@ -123,32 +123,32 @@ C/fast:
 	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
 .PHONY : C/fast
 
-p1000.o: p1000.c.o
+p1001.o: p1001.c.o
 
-.PHONY : p1000.o
+.PHONY : p1001.o
 
 # target to build an object file
-p1000.c.o:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1000.c.o
-.PHONY : p1000.c.o
+p1001.c.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1001.c.o
+.PHONY : p1001.c.o
 
-p1000.i: p1000.c.i
+p1001.i: p1001.c.i
 
-.PHONY : p1000.i
+.PHONY : p1001.i
 
 # target to preprocess a source file
-p1000.c.i:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1000.c.i
-.PHONY : p1000.c.i
+p1001.c.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1001.c.i
+.PHONY : p1001.c.i
 
-p1000.s: p1000.c.s
+p1001.s: p1001.c.s
 
-.PHONY : p1000.s
+.PHONY : p1001.s
 
 # target to generate assembly for a file
-p1000.c.s:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1000.c.s
-.PHONY : p1000.c.s
+p1001.c.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/p1001.c.s
+.PHONY : p1001.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C"
-	@echo "... p1000.o"
-	@echo "... p1000.i"
-	@echo "... p1000.s"
+	@echo "... p1001.o"
+	@echo "... p1001.i"
+	@echo "... p1001.s"
 .PHONY : help
 
 
